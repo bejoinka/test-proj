@@ -1,6 +1,6 @@
 {
   "name": "@bejoinka/test-proj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "JB",
   "scripts": {
@@ -9,6 +9,8 @@
   "files": [
     "dist"
   ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+github.com:bejoinka/test-proj.git"
