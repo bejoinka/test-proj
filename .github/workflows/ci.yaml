@@ -3,7 +3,10 @@ name: CI
 on: push
 
 jobs:
-  pipeline:
+  deploy:
+    permissions:
+      packages: write
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
