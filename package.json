@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "JB",
-  "dependencies": {
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
