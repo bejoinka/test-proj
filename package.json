@@ -9,6 +9,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:bejoinka/test-proj.git"
+  },
   "devDependencies": {
     "typescript": "^5.0.4"
   }
