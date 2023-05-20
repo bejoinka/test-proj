@@ -1,0 +1,19 @@
+{
+  "name": "@bejoinka/test-proj",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "JB",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:bejoinka/test-proj.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
